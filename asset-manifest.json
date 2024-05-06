@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/worldwise/static/css/main.58f64cd0.css",
+    "main.js": "/worldwise/static/js/main.33ce1d1f.js",
+    "static/media/bg.jpg": "/worldwise/static/media/bg.3e2be86d98db926ce9f0.jpg",
+    "index.html": "/worldwise/index.html",
+    "main.58f64cd0.css.map": "/worldwise/static/css/main.58f64cd0.css.map",
+    "main.33ce1d1f.js.map": "/worldwise/static/js/main.33ce1d1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58f64cd0.css",
+    "static/js/main.33ce1d1f.js"
+  ]
+}
